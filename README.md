@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Wojtek<br><br>- 📚 I'm currently learning GO<br>- ⚡ In my free time I like to play racing games</p>
+<p align="left">I'm student (high school) and my name is Wojtek.<br><br>- 📚 I'm currently learning GO<br>- ⚡ In my free time I like to play racing games</p>
 
 ###
 
